@@ -1,1 +1,1 @@
-[datascience](https://github.com/microsoft/generative-ai-for-beginners/tree/main?WT.mc_id=academic-105485-koreyst)
+[https://github.com/microsoft/generative-ai-for-beginners/tree/main?WT.mc_id=academic-105485-koreyst](https://github.com/microsoft/generative-ai-for-beginners/tree/main?WT.mc_id=academic-105485-koreyst)
